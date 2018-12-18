@@ -11,7 +11,6 @@ public class GetProjects {
 	    
 	    String username="rohit@icreon.com";
 	   
-	    String password="Rrp@1993";
 	  
 	    String url="https://icreontech.atlassian.net/rest/api/2/";
 	   
