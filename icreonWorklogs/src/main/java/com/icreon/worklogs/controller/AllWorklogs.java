@@ -32,7 +32,6 @@ public class AllWorklogs {
 	
 	String username="rohit@icreon.com";
 	   
-    String password="Rrp@1993";
     
     List<Object[]> obj=null;
     
